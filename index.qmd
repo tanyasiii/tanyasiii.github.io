@@ -5,3 +5,5 @@ title: "Tracy Anyasi"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+![](./images/Tracy_Grad_PS.jpg){width="75%" fig-align="center"}
