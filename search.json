@@ -4,7 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "##The Transmission and Potential Outbreak of Model Disease X (Measles-Influenza Hybrid)\nAdvanced disease outbreak modeling using R, SPSS, and CDC data to implement deterministic and continuous time models with the “deSolve” package; evaluated the impact of varying vaccination rates and calculated key metrics (V-critical of 96%) with Tableau.\nView Full Report (pdf)"
+    "text": "Advanced disease outbreak modeling using R, SPSS, and CDC data to implement deterministic and continuous time models with the “deSolve” package; evaluated the impact of varying vaccination rates and calculated key metrics (V-critical of 96%) with Tableau.\nView Full Report (pdf)"
+  },
+  {
+    "objectID": "projects.html#the-transmission-and-potential-outbreak-of-model-disease-x-measles-influenza-hybrid",
+    "href": "projects.html#the-transmission-and-potential-outbreak-of-model-disease-x-measles-influenza-hybrid",
+    "title": "Projects",
+    "section": "",
+    "text": "Advanced disease outbreak modeling using R, SPSS, and CDC data to implement deterministic and continuous time models with the “deSolve” package; evaluated the impact of varying vaccination rates and calculated key metrics (V-critical of 96%) with Tableau.\nView Full Report (pdf)"
   },
   {
     "objectID": "projects.html#the-impact-of-human-waste-production-hwp-on-pollinator-biodiversity",
