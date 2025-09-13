@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-##The Transmission and Potential Outbreak of Model Disease X (Measles-Influenza Hybrid)
+## The Transmission and Potential Outbreak of Model Disease X (Measles-Influenza Hybrid)
 ![](images/vaccine.jpg){width=400px}
 
 Advanced disease outbreak modeling using R, SPSS, and CDC data to implement deterministic and continuous time models with
