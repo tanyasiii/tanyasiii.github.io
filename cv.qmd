@@ -1,0 +1,9 @@
+## Curriculum Vitae
+
+### Preview
+![](images/resume%20screenshoot.png){width=100%}
+
+
+### Full CV
+- [View Full CV (PDF)](pdfs/Anyasi_Tracy_Resume_M25.pdf){target="_blank"}
+- [Download CV](pdfs/Anyasi_Tracy_Resume_M25.pdf){download="Tracy-Anyasi-CV.pdf"}

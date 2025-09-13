@@ -9,8 +9,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Welcome, I’m Tracy!",
+    "section": "",
+    "text": "My name is Tracy Anyasi, and I am passionate about leveraging financial and biomedical research to inform strategic decisions in healthcare markets. With a foundation in data-driven analysis, market research, and project management, I aim to translate complex healthcare and financial insights into actionable strategies that enhance patient access, affordability, and market efficiency.\n\n\nI am particularly motivated by the intersection of private equity and equity research, where rigorous evaluation of healthcare innovations can drive investment decisions while improving societal outcomes. The opportunity to contribute to a team at the forefront of healthcare finance, research, and market accessibility—providing evidence-based, strategic insights that balance financial performance with patient impact—is both exciting and deeply aligned with my professional goals.\n\n\n\n\n© 2025 Tracy Anyasi · Built with the help of Generative AI"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
     "title": "Tracy Anyasi",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "View Full CV (PDF)\nDownload CV"
+  },
+  {
+    "objectID": "cv.html#curriculum-vitae",
+    "href": "cv.html#curriculum-vitae",
+    "title": "Tracy Anyasi",
+    "section": "",
+    "text": "View Full CV (PDF)\nDownload CV"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get in Touch\nYou can reach me through any of the following methods:\nName: Tracy Anyasi\nEmail: tanyasi@bu.edu\nPhone: +1 (213) 713-4370\nLinkedIn: linkedin.com/in/tracyanyasi\nGitHub: github.com/tanyasiii\n\n\n© 2025 Tracy Anyasi · Built with the help of Generative AI"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Advanced disease outbreak modeling using R, SPSS, and CDC data to implement deterministic and continuous time models with the “deSolve” package; evaluated the impact of varying vaccination rates and calculated key metrics (V-critical of 96%) with Tableau.\nView Full Report (pdf)"
+  },
+  {
+    "objectID": "projects.html#the-transmission-and-potential-outbreak-of-model-disease-x-measles-influenza-hybrid",
+    "href": "projects.html#the-transmission-and-potential-outbreak-of-model-disease-x-measles-influenza-hybrid",
+    "title": "Projects",
+    "section": "",
+    "text": "Advanced disease outbreak modeling using R, SPSS, and CDC data to implement deterministic and continuous time models with the “deSolve” package; evaluated the impact of varying vaccination rates and calculated key metrics (V-critical of 96%) with Tableau.\nView Full Report (pdf)"
+  },
+  {
+    "objectID": "projects.html#the-impact-of-human-waste-production-hwp-on-pollinator-biodiversity",
+    "href": "projects.html#the-impact-of-human-waste-production-hwp-on-pollinator-biodiversity",
+    "title": "Projects",
+    "section": "The Impact of HUman Waste Production (HWP) on Pollinator Biodiversity",
+    "text": "The Impact of HUman Waste Production (HWP) on Pollinator Biodiversity\n\nConducted extensive statistical analysis with Excel to explore the link between pollinator biodiversity and HWP—leveraged data from iNaturalist, UCLA Sustainability, Cal Fire, and the Los Angeles Almanac—and expanded scientific knowledge by 40%.\nView Full Report (pdf)"
   }
 ]

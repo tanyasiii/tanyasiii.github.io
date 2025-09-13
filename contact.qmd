@@ -17,3 +17,8 @@ You can reach me through any of the following methods:
 **GitHub:** [github.com/tanyasiii](https://github.com/tanyasiii)  
 
 ---
+
+
+<footer style="text-align:center; margin-top:40px; font-size:0.9em; color:gray;">
+© 2025 Tracy Anyasi · Built with the help of Generative AI
+</footer>
