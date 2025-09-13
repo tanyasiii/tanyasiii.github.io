@@ -2,8 +2,32 @@
 title: "Tracy Anyasi"
 ---
 
-This is a Quarto website.
+<div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap;">
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<!-- Image on the left -->
+<div style="flex: 1; min-width: 200px;">
+<img src="./images/Tracy_Grad_PS.jpg" style="width: 100%; max-width: 300px; border-radius: 10px;" />
+</div>
+
+
+
+<!-- Text on the right -->
+<div style="flex: 2; min-width: 250px;">
+<p>
+My name is Tracy Anyasi, and I am passionate about leveraging financial and biomedical research to inform strategic decisions in healthcare markets. With a foundation in data-driven analysis, market research, and project management, I aim to translate complex healthcare and financial insights into actionable strategies that enhance patient access, affordability, and market efficiency. I am particularly motivated by the intersection of private equity and equity research, where rigorous evaluation of healthcare innovations can drive investment decisions while improving societal outcomes. The opportunity to contribute to a team at the forefront of healthcare finance, research, and market accessibility—providing evidence-based, strategic insights that balance financial performance with patient impact—is both exciting and deeply aligned with my professional goals.
+</p>
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
 
 ![](./images/Tracy_Grad_PS.jpg){width="75%" fig-align="center"}
