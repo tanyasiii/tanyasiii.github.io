@@ -5,9 +5,9 @@ website:
   title: "Tracy Anyasi"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About Tracy
+      - Projects.qmd
 
 format:
   html:
