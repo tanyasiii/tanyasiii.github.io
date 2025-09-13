@@ -2,4 +2,27 @@
 title: "Projects"
 ---
 
-About this site
+##The Transmission and Potential Outbreak of Model Disease X (Measles-Influenza Hybrid)
+![](images/vaccine.jpg){width=400px}
+
+Advanced disease outbreak modeling using R, SPSS, and CDC data to implement deterministic and continuous time models with
+the "deSolve" package; evaluated the impact of varying vaccination rates and calculated key metrics (V-critical of 96%) with
+Tableau.
+
+[View Full Report (pdf)](pdfs/The%20Transmission%20and%20Potential%20Outbreak%20of%20Model%20%20Disease%20X%20-%20Tracy%20Anyasi.pdf)
+
+---
+
+## The Impact of HUman Waste Production (HWP) on Pollinator Biodiversity
+![](images/turtle.jpg){width=400px}
+
+Conducted extensive statistical analysis with Excel to explore the link between pollinator biodiversity and HWP—leveraged data
+from iNaturalist, UCLA Sustainability, Cal Fire, and the Los Angeles Almanac—and expanded scientific knowledge by 40%.
+
+[View Full Report (pdf)](pdfs/The%20Potential%20Correlation%20Between%20the%20Biodiversity%20of%20Pollinators%20and%20Waste%20Production%20of%20Humans%20in%20Tonnage%20on%20a%20Temporal%20scale%20at%20UCLA%20.pdf)
+
+
+
+
+
+
