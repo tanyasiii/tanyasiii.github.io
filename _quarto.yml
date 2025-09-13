@@ -5,8 +5,6 @@ website:
   title: "Tracy Anyasi"
   navbar:
     left:
-      - href: about.qmd
-        text: About Tracy
       - href: projects.qmd
         text: My Projects
       - href: cv.qmd
@@ -17,7 +15,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - united
       - brand
     css: styles.css
     toc: true
