@@ -7,6 +7,7 @@ title: "Projects"
 This study evaluates the growing integration of artificial intelligence in the workplace, examining how it is reshaping job structures, skill requirements, and employment dynamics, while analyzing early trends to inform strategies for adapting to an increasingly AI-driven workforce.
 
 [View Full Report (pdf)](pdfs/Evaluating%20Personal%20Job%20Market%20Prospects%20in%202024%20-%20Github.pdf)
+
 ---
 
 ## The Transmission and Potential Outbreak of Model Disease X (Measles-Influenza Hybrid)
