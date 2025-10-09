@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This study evaluates the growing integration of artificial intelligence in the workplace, examining how it is reshaping job structures, skill requirements, and employment dynamics, while analyzing early trends to inform strategies for adapting to an increasingly AI-driven workforce."
+  },
+  {
+    "objectID": "projects.html#evaluating-ais-influence-on-job-market-prospects-in-2024",
+    "href": "projects.html#evaluating-ais-influence-on-job-market-prospects-in-2024",
+    "title": "Projects",
+    "section": "",
+    "text": "This study evaluates the growing integration of artificial intelligence in the workplace, examining how it is reshaping job structures, skill requirements, and employment dynamics, while analyzing early trends to inform strategies for adapting to an increasingly AI-driven workforce."
+  },
+  {
+    "objectID": "projects.html#view-full-report-pdf",
+    "href": "projects.html#view-full-report-pdf",
+    "title": "Projects",
+    "section": "View Full Report (pdf)",
+    "text": "View Full Report (pdf)"
+  },
+  {
+    "objectID": "projects.html#the-transmission-and-potential-outbreak-of-model-disease-x-measles-influenza-hybrid",
+    "href": "projects.html#the-transmission-and-potential-outbreak-of-model-disease-x-measles-influenza-hybrid",
+    "title": "Projects",
+    "section": "The Transmission and Potential Outbreak of Model Disease X (Measles-Influenza Hybrid)",
+    "text": "The Transmission and Potential Outbreak of Model Disease X (Measles-Influenza Hybrid)\n\nAdvanced disease outbreak modeling using R, SPSS, and CDC data to implement deterministic and continuous time models with the “deSolve” package; evaluated the impact of varying vaccination rates and calculated key metrics (V-critical of 96%) with Tableau.\nView Full Report (pdf)"
+  },
+  {
+    "objectID": "projects.html#the-impact-of-human-waste-production-hwp-on-pollinator-biodiversity",
+    "href": "projects.html#the-impact-of-human-waste-production-hwp-on-pollinator-biodiversity",
+    "title": "Projects",
+    "section": "The Impact of HUman Waste Production (HWP) on Pollinator Biodiversity",
+    "text": "The Impact of HUman Waste Production (HWP) on Pollinator Biodiversity\n\nConducted extensive statistical analysis with Excel to explore the link between pollinator biodiversity and HWP—leveraged data from iNaturalist, UCLA Sustainability, Cal Fire, and the Los Angeles Almanac—and expanded scientific knowledge by 40%.\nView Full Report (pdf)"
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Tracy Anyasi",
@@ -12,27 +47,6 @@
     "title": "Tracy Anyasi",
     "section": "",
     "text": "View Full CV (PDF)\nDownload CV"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Advanced disease outbreak modeling using R, SPSS, and CDC data to implement deterministic and continuous time models with the “deSolve” package; evaluated the impact of varying vaccination rates and calculated key metrics (V-critical of 96%) with Tableau.\nView Full Report (pdf)"
-  },
-  {
-    "objectID": "projects.html#the-transmission-and-potential-outbreak-of-model-disease-x-measles-influenza-hybrid",
-    "href": "projects.html#the-transmission-and-potential-outbreak-of-model-disease-x-measles-influenza-hybrid",
-    "title": "Projects",
-    "section": "",
-    "text": "Advanced disease outbreak modeling using R, SPSS, and CDC data to implement deterministic and continuous time models with the “deSolve” package; evaluated the impact of varying vaccination rates and calculated key metrics (V-critical of 96%) with Tableau.\nView Full Report (pdf)"
-  },
-  {
-    "objectID": "projects.html#the-impact-of-human-waste-production-hwp-on-pollinator-biodiversity",
-    "href": "projects.html#the-impact-of-human-waste-production-hwp-on-pollinator-biodiversity",
-    "title": "Projects",
-    "section": "The Impact of HUman Waste Production (HWP) on Pollinator Biodiversity",
-    "text": "The Impact of HUman Waste Production (HWP) on Pollinator Biodiversity\n\nConducted extensive statistical analysis with Excel to explore the link between pollinator biodiversity and HWP—leveraged data from iNaturalist, UCLA Sustainability, Cal Fire, and the Los Angeles Almanac—and expanded scientific knowledge by 40%.\nView Full Report (pdf)"
   },
   {
     "objectID": "index.html",
