@@ -6,13 +6,9 @@ title: "Contact"
 
 You can reach me through any of the following methods:
 
-**Name:** Tracy Anyasi  
+**Email:** [tanyasi@bu.edu](mailto:tanyasi@bu.edu)
 
-**Email:** [tanyasi@bu.edu](mailto:tanyasi@bu.edu)  
-
-**Phone:** +1 (213) 713-4370  
-
-**LinkedIn:** [linkedin.com/in/tracyanyasi](https://www.linkedin.com/in/tracy-anyasi/)  
+**LinkedIn:** [linkedin.com/in/tracyanyasi](https://www.linkedin.com/in/tracy-anyasi/)
 
 **GitHub:** [github.com/tanyasiii](https://github.com/tanyasiii)  
 
@@ -20,5 +16,5 @@ You can reach me through any of the following methods:
 
 
 <footer style="text-align:center; margin-top:40px; font-size:0.9em; color:gray;">
-© 2025 Tracy Anyasi · Built with the help of Generative AI
+© 2026 Tracy Anyasi
 </footer>

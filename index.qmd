@@ -33,5 +33,5 @@ My name is Tracy Anyasi, and I am passionate about leveraging financial and biom
 
 
 <footer style="text-align:center; margin-top:40px; font-size:0.9em; color:gray;">
-© 2025 Tracy Anyasi · Built with the help of Generative AI
+© 2026 Tracy Anyasi
 </footer>
